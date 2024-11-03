@@ -1,3 +1,21 @@
+arzaka:
+  name: Arzaka Raffan Mawardi
+  title: Future Indonesian President
+  url: https://github.com/ArzakaRaffan
+  image_url: https://i.imgur.com/OpHddIh.jpeg
+  page: true
+  socials:
+    github: ArzakaRaffan
+
+ariq:
+  name: Ariq Maulana Malik Ibrahim
+  title: Future Indonesian Vice President
+  url: https://github.com/Ariqmau
+  image_url: https://i.imgur.com/RME1LET.jpeg
+  page: true
+  socials:
+    github: Ariqmau
+
 yangshun:
   name: Yangshun Tay
   title: Front End Engineer @ Facebook
